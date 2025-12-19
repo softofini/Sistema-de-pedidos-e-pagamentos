@@ -2,7 +2,7 @@ import java.io.*;
 import java.net.*;
 import java.util.Scanner;
 
-public class ClienteQuiosque {
+public class AtendenteQuiosque {
 
     private static final String SERVIDOR = "localhost";
     private static final int PORTA = 5000;
